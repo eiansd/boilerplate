@@ -92,7 +92,7 @@ function Home() {
     }
   ])
 
-  return (
+  return(
     <>
     <StBack>
       <StHeader>
